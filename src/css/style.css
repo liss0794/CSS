@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(245, 213, 234);
+}
+h1 {
+    text-align: center;
+    color: rgb(169, 36, 87);
+}
+/* seleccion mediante el nombre de la etiqueta */
+/* p{
+    color: rgb(226, 43, 144);
+} */
+#parrafo1{
+    color: red;
+}
+#parrafo2{
+    color: rgb(243, 16, 95);
+}
+#parrafo3{
+    color: rgb(228, 148, 204);
+}
+.transformar-texto-en-mayuscula{
+    text-transform: uppercase;
+}

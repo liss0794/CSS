@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(rgba(246, 226, 11, 0.906), rgba(24, 8, 248, 0.5), rgba(248, 8, 8, 0.5)),
+    url("../../media/examples/lizard.png");
+    text-align: center;
+   
+    border: 6px dotted green;
+}
+.amarillo{
+    color: yellow;
+}
+.azul{
+    color: blue;
+}
+.rojo{
+    color: red;
+}
